@@ -1,0 +1,79 @@
+Item name,Category,Date purchased,amount,needed,Quantity,Unit,Unit price,store,Discount
+ONION NET,Produce,11/10/2026,€ 1.19,Yes,1,Kg,€ 1.19,Dunnes,No
+CHOC ORGE MUFFIN,Sweet,11/10/2026,€ 2.99,No,4,Count,€ 0.75,Dunnes,Yes
+MILK,Dairy,11/10/2026,€ 0.85,Yes,0.5,Litre,€ 1.70,Dunnes,No
+LARGE EGG,Poultry,11/10/2026,€ 1.85,Yes,0.41,Kg,€ 4.51,Dunnes,No
+SCALLIONS,Produce,11/10/2026,€ 0.89,Yes,0.1,Kg,€ 8.90,Dunnes,No
+BASMATI RICE,Grains,25/10/2026,€ 1.59,Yes,1,Kg,€ 1.59,Aldi,No
+WHOLEGRAIN BREAD,Grains,25/10/2026,€ 0.79,Yes,0.8,Kg,€ 0.99,Aldi,No
+CHEESE EDAM/GOUDA,Dairy,25/10/2026,€ 2.49,Yes,0.4,Kg,€ 6.23,Aldi,No
+GARLIC BREAD TWIN,Grains,25/10/2026,€ 0.79,Yes,0.33,Kg,€ 2.39,Aldi,No
+PRAWNS,Meat,25/10/2026,€ 2.99,Yes,0.18,Kg,€ 16.61,Aldi,No
+CHICKEN THIGHS FLAVOURED,Meat,25/10/2026,€ 3.79,Yes,0.5,Kg,€ 7.58,Aldi,No
+LARGE EGG,Poultry,25/10/2026,€ 1.85,Yes,0.41,Kg,€ 4.51,Aldi,No
+MILK,Dairy,25/10/2026,€ 0.69,Yes,0.5,Litre,€ 1.38,Aldi,No
+CHICKPEAS ,Tinned,25/10/2026,€ 0.79,Yes,0.4,Kg,€ 1.98,Aldi,No
+PLUM TOMATO,Produce,25/10/2026,€ 2.29,Yes,6.5,Count,€ 0.35,Aldi,No
+EASY PEELER ORANGE,Produce,25/10/2026,€ 0.59,Yes,0.5,Kg,€ 1.18,Aldi,Yes
+ORANGE JUICE,Beverage,25/10/2026,€ 3.10,No,1,Litre,€ 3.10,Aldi,No
+BLUEBERRIES,Produce,25/10/2026,€ 3.00,Yes,0.3,Kg,€ 10.00,Aldi,Yes
+YOGHURT ,Dairy,25/10/2026,€ 0.99,Yes,0.5,Kg,€ 1.98,Aldi,No
+SOY SAUCE,Sauce,25/10/2026,€ 0.85,Yes,0.15,Litre,€ 5.67,Aldi,No
+PREMIUM BAKED BEANS,Tinned,25/10/2026,€ 0.48,Yes,0.41,Kg,€ 1.17,Aldi,No
+HEALTH GRANOLA,Cereal,30/09/2026,€ 2.49,Yes,0.4,Kg,€ 6.23,Aldi,No
+SLICED MUSHROOMS,Produce,30/09/2026,€ 0.85,Yes,0.15,Kg,€ 5.67,Aldi,No
+IRISH PASTA SAUCE,Sauce,30/09/2026,€ 1.99,Yes,0.35,Kg,€ 5.69,Aldi,No
+WOK NOODLES,Grains,30/09/2026,€ 0.59,Yes,0.3,Kg,€ 1.97,Aldi,No
+PENNE,Grains,30/09/2026,€ 0.59,Yes,0.5,Kg,€ 1.18,Aldi,No
+NAAN BREAD,Grains,16/09/2026,€ 0.79,No,2,Count,€ 0.40,Aldi,No
+HOUMOUS,Spread,16/09/2026,€ 0.65,No,0.2,Kg,€ 3.25,Aldi,No
+BLUEBERRIES,Produce,16/09/2026,€ 1.99,Yes,0.3,Kg,€ 6.63,Aldi,Yes
+THINS BAGELS,Grains,16/09/2026,€ 1.49,Yes,6,Count,€ 0.25,Aldi,No
+EGG MAYONNAISE,Spread,16/09/2026,€ 1.49,Yes,0.25,Kg,€ 5.96,Aldi,No
+YOGHURT ,Dairy,16/09/2026,€ 0.99,Yes,0.5,Kg,€ 1.98,Aldi,No
+CHEESE EDAM/GOUDA,Dairy,16/09/2026,€ 2.49,Yes,0.4,Kg,€ 6.23,Aldi,No
+FRESH WRAPS,Ready,16/09/2026,€ 1.99,No,2,Count,€ 1.00,Aldi,No
+GARLIC PASTE,Produce,16/09/2026,€ 1.19,Yes,0.075,Kg,€ 15.87,Aldi,No
+SCALLIONS,Produce,16/09/2026,€ 0.49,Yes,0.1,Kg,€ 4.90,Aldi,No
+WHOLEGRAIN BREAD,Grains,26/09/2026,€ 0.79,Yes,0.8,Kg,€ 0.99,Aldi,No
+HIGH PROTEIN SANDWHICH,Ready,26/09/2026,€ 2.69,No,2,Count,€ 1.35,Aldi,No
+GARLIC BREAD TWIN,Grains,26/09/2026,€ 0.75,Yes,0.33,Kg,€ 2.27,Aldi,No
+SAUSAGE CHICKEN,Meat,26/09/2026,€ 1.49,Yes,0.24,Kg,€ 6.21,Aldi,No
+CHICKEN THIGHS FLAVOURED,Meat,26/09/2026,€ 3.79,Yes,0.5,Kg,€ 7.58,Aldi,No
+SWEET PEPPER,Produce,26/09/2026,€ 0.79,Yes,2,Count,€ 0.40,Aldi,Yes
+PREMIUM BAKED BEANS,Tinned,26/09/2026,€ 0.48,Yes,0.41,Kg,€ 1.17,Aldi,No
+TENDERSTEM BROCOLLI,Produce,26/09/2026,€ 1.49,Yes,0.2,Kg,€ 7.45,Aldi,No
+EGG MAYONNAISE,Spread,26/09/2026,€ 1.49,No,0.25,Kg,€ 5.96,Aldi,No
+BLUEBERRIES,Produce,26/09/2026,€ 3.00,Yes,0.3,Kg,€ 10.00,Aldi,Yes
+RED GRAPE,Produce,26/09/2026,€ 1.99,No,0.5,Kg,€ 3.98,Aldi,Yes
+YOGHURT ,Dairy,26/09/2026,€ 0.99,Yes,0.5,Kg,€ 1.98,Aldi,No
+BASMATI RICE,Grains,26/09/2026,€ 1.59,Yes,1,Kg,€ 1.59,Aldi,No
+MILK,Dairy,26/09/2026,€ 0.69,Yes,0.5,Litre,€ 1.38,Aldi,No
+MEDIUM EGG,Poultry,26/09/2026,€ 2.25,Yes,0.35,Kg,€ 6.43,Aldi,No
+PEANUT BUTTER,Spread,20/09/2026,€ 1.49,Yes,0.34,Kg,€ 4.38,Aldi,No
+BLUEBERRIES,Produce,20/09/2026,€ 1.99,Yes,0.15,Kg,€ 13.27,Aldi,No
+IRISH PASTA SAUCE,Sauce,20/09/2026,€ 1.99,Yes,0.35,Kg,€ 5.69,Aldi,No
+TOMATO WHOLE PEELED,Tinned,7/10/2026,€ 0.65,Yes,0.4,Kg,€ 1.63,Aldi,No
+CHEESE EDAM/GOUDA,Dairy,7/10/2026,€ 2.49,Yes,0.4,Kg,€ 6.23,Aldi,No
+WOK NOODLES,Grains,7/10/2026,€ 0.59,Yes,0.3,Kg,€ 1.97,Aldi,No
+LARGE EGG,Poultry,18/10/2026,€ 1.85,Yes,0.41,Kg,€ 4.51,Dunnes,No
+WHITE BREAD,Grains,18/10/2026,€ 0.75,Yes,0.4,Kg,€ 1.88,Aldi,No
+ORANGE JUICE,Beverage,18/10/2026,€ 3.10,Yes,1,Litre,€ 3.10,Aldi,No
+GARLIC BREAD TWIN,Grains,18/10/2026,€ 0.79,Yes,0.33,Kg,€ 2.39,Aldi,No
+PENNE,Grains,18/10/2026,€ 0.59,Yes,0.5,Kg,€ 1.18,Aldi,No
+WOK NOODLES,Grains,18/10/2026,€ 1.18,Yes,0.6,Kg,€ 1.97,Aldi,No
+HONEY CEREAL CLUSTER,Cereal,18/10/2026,€ 1.99,Yes,0.5,Kg,€ 3.98,Aldi,No
+YOGHURT ,Dairy,18/10/2026,€ 0.99,Yes,0.5,Kg,€ 1.98,Aldi,No
+COLEY SMOKED,Meat,18/10/2026,€ 2.99,Yes,0.25,Kg,€ 11.96,Aldi,No
+PASTA SAUCE,Sauce,18/10/2026,€ 1.99,Yes,0.35,Kg,€ 5.69,Aldi,No
+BLUEBERRIES,Produce,18/10/2026,€ 3.00,Yes,0.3,Kg,€ 10.00,Aldi,Yes
+FINE GREEN BEAN,Produce,18/10/2026,€ 1.89,Yes,0.22,Kg,€ 8.59,Aldi,No
+WHOLEGRAIN BREAD,Grains,12/9/2026,€ 0.79,Yes,0.8,Kg,€ 0.99,Aldi,No
+LARGE EGG,Poultry,12/9/2026,€ 1.85,Yes,0.41,Kg,€ 4.51,Aldi,No
+WASHING UP LIQUID,Kitchenware,12/9/2026,€ 0.95,Yes,0.5,Litre,€ 1.90,Aldi,No
+FRESH WRAPS,Ready,12/9/2026,€ 1.99,No,2,Count,€ 1.00,Aldi,No
+ARTISAN SANDWHICH,Ready,12/9/2026,€ 2.99,No,2,Count,€ 1.50,Aldi,No
+TOOTHPASTE,Bathroom,12/9/2026,€ 0.99,Yes,0.125,Litre,€ 7.92,Aldi,No
+SHOWER GEL,Bathroom,12/9/2026,€ 0.83,Yes,0.3,Litre,€ 2.77,Aldi,No
+FITTED SHEET,Bedroom,12/9/2026,€ 9.99,Yes,1,Count,€ 9.99,Aldi,No
+DRAIN GEL,Kitchenware,12/9/2026,€ 3.58,Yes,1,Litre,€ 3.58,Aldi,No
