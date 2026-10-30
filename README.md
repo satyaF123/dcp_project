@@ -1,2 +1,2 @@
-# dcp_project
-My semester 1 project for data centric project
+# column descriptions of my csv file
+
