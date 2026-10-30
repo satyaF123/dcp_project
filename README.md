@@ -13,4 +13,6 @@
 |Store|The store the product was purchased from , takes in string values|
 |Discount|Whether the product purchased was discounted or not , takes in binary yes no values|
 
+The data provided in this csv file is all available to me from receipts , I have a habit of keeping grocery store receipts with me every time I go for a grocery run , there will be more rows of data being added when i make the next grocery run.
+
 
